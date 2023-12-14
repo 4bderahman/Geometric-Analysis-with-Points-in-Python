@@ -95,7 +95,4 @@ print(f"Les points sont-ils alignés? {trois_points.sontalignes()}")
 # Test for isosceles triangle
 print(f"Les points forment-ils un triangle isocèle? {trois_points.estisocèle()}")
 
-# Test for acute-angled triangle
-
-
 # Additional tests can be added as needed to verify all functionalities
